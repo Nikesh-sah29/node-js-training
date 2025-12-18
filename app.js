@@ -7,7 +7,7 @@ app.get("/",function(req,res){
     res.send("hello there ")
 })
 app.get("/about",function(req,res){
-    res.send("about world ")
+    res.send("hello there nikesh world ")
 })
 
 
